@@ -1,0 +1,15 @@
+.main-content{
+    display: flex;
+}
+
+.profile{
+    width: 28%;
+}
+
+.addFriend{
+    width: 45%;
+}
+
+.cart{
+    width: 27%;
+}

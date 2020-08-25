@@ -1,0 +1,48 @@
+var wrestler = [
+    {
+        id: 5714545,
+        name: "John Cena",
+        born: "July 18, 1967",
+        occupation: "Professional wrestler, actor, rappertelevision, presenter",
+        height: 1.82,
+        annual_income: 12,
+        hometown: "West Newbury, Massachusetts, United States",
+        from: "Massachusetts, United States",
+        img: "https://iili.io/dUVQwu.th.jpg",
+    },
+    {
+        id: 4514545,
+        name: "Dwayne Johnson",
+        born: "May 2, 1972",
+        occupation: "Actor, producer, businessman",
+        height: 1.96,
+        annual_income: 124,
+        hometown: "South Florida",
+        from: "California, USA",
+        img: "https://iili.io/dUVMCv.th.jpg",
+    },
+    {
+        id: 1114545,
+        name: "Dave Bautista",
+        born: "January 18, 1969",
+        occupation: "Actor, professional wrestler, mixed martial artist",
+        height: 1.98,
+        annual_income: 81,
+        hometown: "Washington, D.C., United States",
+        from: "Washington, D.C., United States",
+        img: "https://iili.io/dUWNKQ.th.jpg",
+    },
+    {
+        id: 1214545,
+        name: "Roman Reigns",
+        born: "May 25, 1985",
+        occupation: "Actor, professional wrestler",
+        height: 1.91,
+        annual_income: 81,
+        hometown: "Pensacola, Florida, United States",
+        from: "Florida, United States",
+        img: "https://iili.io/dUXW7I.th.jpg",
+    },
+]
+
+export default wrestler;
